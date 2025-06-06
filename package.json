@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/KnockOut19882/GitPraktice/issues"
   },
-  "homepage": "https://github.com/KnockOut19882/GitPraktice#readme"
+  "homepage": "https://github.com/KnockOut19882/GitPraktice#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  }
 }
